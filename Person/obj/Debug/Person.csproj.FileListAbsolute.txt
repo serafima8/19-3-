@@ -1,0 +1,7 @@
+\\Serv31\для сохранения работ\215 группа\сссс\Person\bin\Debug\Person.exe.config
+\\Serv31\для сохранения работ\215 группа\сссс\Person\bin\Debug\Person.exe
+\\Serv31\для сохранения работ\215 группа\сссс\Person\bin\Debug\Person.pdb
+\\Serv31\для сохранения работ\215 группа\сссс\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+\\Serv31\для сохранения работ\215 группа\сссс\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+\\Serv31\для сохранения работ\215 группа\сссс\Person\obj\Debug\Person.exe
+\\Serv31\для сохранения работ\215 группа\сссс\Person\obj\Debug\Person.pdb
