@@ -1,0 +1,7 @@
+C:\Users\seraf\OneDrive\Рабочий стол\19-3--main\Autoshop\bin\Debug\Autoshop.exe.config
+C:\Users\seraf\OneDrive\Рабочий стол\19-3--main\Autoshop\bin\Debug\Autoshop.exe
+C:\Users\seraf\OneDrive\Рабочий стол\19-3--main\Autoshop\bin\Debug\Autoshop.pdb
+C:\Users\seraf\OneDrive\Рабочий стол\19-3--main\Autoshop\obj\Debug\Autoshop.csproj.AssemblyReference.cache
+C:\Users\seraf\OneDrive\Рабочий стол\19-3--main\Autoshop\obj\Debug\Autoshop.csproj.CoreCompileInputs.cache
+C:\Users\seraf\OneDrive\Рабочий стол\19-3--main\Autoshop\obj\Debug\Autoshop.exe
+C:\Users\seraf\OneDrive\Рабочий стол\19-3--main\Autoshop\obj\Debug\Autoshop.pdb
