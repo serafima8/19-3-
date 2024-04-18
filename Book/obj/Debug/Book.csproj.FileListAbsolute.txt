@@ -1,0 +1,7 @@
+D:\Интерфейсы ООП\Book\bin\Debug\Book.exe.config
+D:\Интерфейсы ООП\Book\bin\Debug\Book.exe
+D:\Интерфейсы ООП\Book\bin\Debug\Book.pdb
+D:\Интерфейсы ООП\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+D:\Интерфейсы ООП\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\Интерфейсы ООП\Book\obj\Debug\Book.exe
+D:\Интерфейсы ООП\Book\obj\Debug\Book.pdb
